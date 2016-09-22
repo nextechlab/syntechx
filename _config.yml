@@ -21,7 +21,7 @@ description: "SRM University Student run technology blog"
 keywords: "SRM, nextech, next tech lab, blog, technology"
 
 # Site settings
-url: "http://blog.nextech.io"
+url: "http://nextechlab.github.io"
 baseurl: "/syntechx"
 
 
